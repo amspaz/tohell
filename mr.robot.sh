@@ -1,6 +1,6 @@
 #! /bin/bash
 #
-# decimo.sh - Nosso Decimo Programa em Shell - Laço de Repetição For
+# Mr. Robot.sh - Nosso Decimo Programa em Shell - Script Robo
 #
 # Homepage: http:/utah.com.br
 # Autor: Allysson Paz <allysson_marcelo@hotmail.com>
