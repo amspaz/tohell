@@ -1,0 +1,14 @@
+total 48
+-rw-r--r-- 1 root root  322 jun  2 23:05 instructions.txt
+-rwxr-xr-x 1 root root 1283 jun  2 23:03 mr.robot.sh
+-rwxr-xr-x 1 root root  726 jun  2 19:25 nono.sh
+-rwxr-xr-x 1 root root  726 jun  1 20:51 oitava.sh
+-rwxr-xr-x 1 root root  530 mai 31 20:38 primeiro.sh
+-rwxr-xr-x 1 root root 1240 mai 31 22:37 quarto.sh
+-rwxr-xr-x 1 root root 1898 mai 31 23:05 quinto.sh
+-rwxr-x-wx 1 root root  197 jun  1 21:55 script.sh
+-rwxr-xr-x 1 root root 1453 mai 31 21:10 segundo.sh
+-rwxr-xr-x 1 root root  937 jun  1 20:27 setimo.sh
+-rwxr-xr-x 1 root root  949 jun  1 20:10 sexto.sh
+-rw-r--r-- 1 root root    0 jun  2 23:48 sucesso.txt
+-rwxr-xr-x 1 root root 1051 mai 31 22:17 terceiro.sh
